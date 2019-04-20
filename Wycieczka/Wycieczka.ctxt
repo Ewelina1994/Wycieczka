@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Wycieczka
+comment1.params=limit
+comment1.target=Wycieczka(int)
+comment2.params=uczestnik
+comment2.target=void\ zapiszUczestnika(Uczestnik)
+comment3.params=uczestnik
+comment3.target=void\ usunUczestnika(Uczestnik)
+comment4.params=
+comment4.target=void\ listaWgZapisow()
+comment5.params=dziecko
+comment5.target=void\ listaWgTypowUczestnikow(boolean)
+comment6.params=
+comment6.target=void\ listaWgPesel()
+numComments=7

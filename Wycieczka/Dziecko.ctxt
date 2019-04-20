@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nazwisko\ imie\ pesel\ adres\ nrLeg
+comment0.target=Dziecko(java.lang.String,\ java.lang.String,\ java.lang.String,\ Adres,\ long)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=long\ dajNrLeg()
+numComments=3
